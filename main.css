@@ -1,0 +1,18 @@
+#section__articles {
+    display: flex;
+    flex-direction: row;
+}
+
+#article1,
+#article2 {
+    width: 50%;
+    margin: 5px;
+}
+
+#article1 {
+    border: 1px dotted red;
+}
+
+#article2 {
+    border: 1px solid black;
+}
